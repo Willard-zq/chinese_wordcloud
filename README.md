@@ -5,7 +5,7 @@
 ## 环境
 * python3
 * 安装Wordcloud库，```pip install wordcloud```或conda下```conda install -c conda-forge wordcloud```
-* 安装jieba库,```pip install jieba```，这里我把jieba库下到项目里了。
+* 安装jieba库,```pip install jieba```
 ## 使用
 * imgs中是背景图片照片
 * 运行codes里的run1.py生成的词云颜色是依据据背景图片颜色生成的。  
