@@ -1,7 +1,7 @@
 中文词云生成
 ===
 * 通过调用Wordcloud和jieba这两个库实现中文词云。
-* 想调用jieba库进行中文分词，再用Wordcloud生成词云。  
+* 先调用jieba库进行中文分词，再用Wordcloud生成词云。  
 ## 环境
 * python3
 * 安装Wordcloud库，```pip install wordcloud```或conda下```conda install -c conda-forge wordcloud```
